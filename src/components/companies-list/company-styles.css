@@ -1,0 +1,6 @@
+.company .company-website {
+  display: none;
+}
+.company:hover .company-website {
+  display: block;
+}
